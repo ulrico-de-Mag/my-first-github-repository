@@ -1,4 +1,4 @@
 # my-first-github-repository
 Here is my first GitHub repository.  Let's get started with GitHub.
 
-This line was added manually.
+This line was added manually. One more edit at Github
